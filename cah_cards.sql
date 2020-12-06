@@ -338,7 +338,7 @@ COPY black_cards (id, draw, pick, text, watermark) FROM stdin;
 200	0	1	During his midlife crisis, my dad got really into ____.	INTL
 201	0	2	When you get right down to it, ____ is just ____.	INTL
 202	0	1	This is your captain speaking. Fasten your seatbelts and prepare for ____.	INTL
-203	0	1	Tonight's top story: What you don't know about ____ could kills you.	INTL
+203	0	1	Tonight's top story: What you don't know about ____ could kill you.	INTL
 204	0	1	Future historians will agree that ____ marked the beginning of America's decline.	INTL
 205	0	1	Coming this season, Samuel Beckett's classic existential play: <i>Waiting for ____.</i>	INTL
 206	0	1	When I pooped, what came out of my butt?	INTL
@@ -582,7 +582,7 @@ COPY black_cards (id, draw, pick, text, watermark) FROM stdin;
 456	0	1	It turns out The Reapers didn't want to destroy the galaxy. They just wanted ____.	MSFX
 457	0	1	We were the best hand-to-hand combatants on the ship. I had reach, but she had ____.	MSFX
 458	0	1	Behold the Four Horsemen of the Apocalypse! War, Famine, Death, and ____.	❄2014
-460	0	1	Honey, Mommy and Daddy love you very much.But apparently Mommy loves ____ more than she loves Daddy.	❄2014
+460	0	1	Honey, Mommy and Daddy love you very much. But apparently Mommy loves ____ more than she loves Daddy.	❄2014
 461	0	2	A curse upon thee! Many years from now, just when you think you're safe, ____ shall turn into ____.	❄2014
 462	0	1	Dear Mom and Dad, Camp is fun. I like capture the flag. Yesterday, one of the older kids taught me about ____. I love you, Casey	❄2014
 463	0	2	Today on Buzzfeed: 10 Pictures of ____ That Look Like ____!	❄2014
@@ -644,7 +644,7 @@ COPY black_cards (id, draw, pick, text, watermark) FROM stdin;
 534	0	1	Computer! Display ____ on screen. Enhance.	SCIFI
 535	0	1	You're not going to believe this, but I'm you from the future! You've got to stop ____.	SCIFI
 536	0	1	This won't be like negotiating with the Vogons. Humans only respond to one thing: ____.	SCIFI
-537	0	1	Madam President, the asteroid is headed directly for Earth and there's one one thing that can stop it: ____.	SCIFI
+537	0	1	Madam President, the asteroid is headed directly for Earth and there's one thing that can stop it: ____.	SCIFI
 538	0	1	You have violated the Prime Directive! You exposed an alien culture to ____ before they were ready.	SCIFI
 539	0	1	What is the answer to life, the universe, and everything?	SCIFI
 540	0	1	Why did the chicken cross the road?	RJCT2
@@ -5560,7 +5560,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 696	The Boy Scouts of America.	US
 697	Bananas.	US
 698	Masturbating.	US
-699	All the dues I've fucked.	US
+699	All the dudes I've fucked.	US
 700	Famine.	US
 701	Hillary Clinton's emails.	US
 702	Executing a hostage every hour.	US
@@ -6255,7 +6255,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 1391	Grandpa's ashes.	INTL
 1392	Reverse cowgirl.	INTL
 1393	Keanu Reeves.	INTL
-1394	LIving in a trashcan.	INTL
+1394	Living in a trashcan.	INTL
 1395	My first kill.	INTL
 1396	Mom.	INTL
 1397	Children on leashes.	INTL
@@ -6360,7 +6360,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 1496	An unhinged Ferris wheel rolling toward the sea.	RED
 1497	A plunger to the face.	RED
 1498	Shaft.	RED
-1499	Big Bird's crown, crusty asshole.	RED
+1499	Big Bird's brown, crusty asshole.	RED
 1500	Filling every orifice with butterscotch pudding.	RED
 1501	A fortuitous turnip harvest.	RED
 1502	Buying the right pants to be cool.	RED
@@ -6385,7 +6385,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 1521	A crappy little hand.	RED
 1522	The systemic destruction of an entire people and their way of life.	RED
 1523	Clenched butt cheeks.	RED
-1524	Filing my son with spaghetti.	RED
+1524	Filling my son with spaghetti.	RED
 1525	Blowing some dudes in an alley.	RED
 1526	Words, words, words.	RED
 1527	Clams.	RED
@@ -6700,7 +6700,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 1836	The hottest MILF in Dallas.	GREEN
 1837	Getting trapped in a conversation about Ayn Rand.	GREEN
 1838	Happy daddies with happy sandals.	GREEN
-1839	A dolphin that learns to talk and becomes the Dead of Harvard Law School.	GREEN
+1839	A dolphin that learns to talk and becomes the Dean of Harvard Law School.	GREEN
 1840	The graceful path of an autumn leaf as it falls to its earthen cradle.	GREEN
 1841	Meatloaf, the food.	GREEN
 1842	10,000 shrieking teenage girls.	GREEN
@@ -6877,7 +6877,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 2012	Waking up inside of a tornado.	GREEN
 2013	Making out and stuff.	GREEN
 2014	A slowly encroaching circle of wolves.	GREEN
-2015	Opening your mouth to talk and a big penis fops out.	GREEN
+2015	Opening your mouth to talk and a big penis flops out.	GREEN
 2016	Eating too many Cinnabons and then vomiting and then eating the vomit.	GREEN
 2017	Seizing control of the means of production.	GREEN
 2018	Misogyny.	GREEN
@@ -7000,7 +7000,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 2137	A man-shaped box.	BOX
 2138	A world without boxes.	BOX
 2139	A box of biscuits, a box of mixed biscuits, and a biscuit mixer.	BOX
-2140	Former President George W. Box.	BOX
+2140	Former President George W. Bush.	BOX
 2141	A box without hinges, key, or lid, yet golden treasure inside is hid.	BOX
 2142	A box-shaped man.	BOX
 2143	The J15 Patriot Assault Box.	BOX
@@ -7285,7 +7285,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 2424	Mild amusement.	PST45
 2425	A back-alley abortion from a Mexican cyborg doctor.	PST45
 2426	Rage.	PST45
-2427	World Wards 3 through 5.	PST45
+2427	World Wars 3 through 5.	PST45
 2428	President Donald Trump.	PST45
 2429	Making Islam illegal.	PST45
 2430	Trying to wake up from this nightmare.	PST45
@@ -7481,6 +7481,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 2620	Game of Thrones spoilers.	WWW
 2621	Cat massage.	WWW
 2622	Matching with Mom on Tinder.	WWW
+2623    Callin. SHEN
 \.
 
 
